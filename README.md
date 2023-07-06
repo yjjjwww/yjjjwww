@@ -31,6 +31,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="nginx" width="40" height="40"/> </a> 
 <br><br />
 <h3 align="left">Testing :</h3>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit4/images/junit5-banner.png" alt="mocha" width="60" height="40"/> </a>
@@ -48,8 +49,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yjjjwww&show_icons=true&locale=en&layout=compact" alt="yjjjwww" /></p>
+<h2 align="left">Blog</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yjjjwww&show_icons=true&locale=en" alt="yjjjwww" /></p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yjjjwww)](https://velog.io/@yjjjwww) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yjjjwww&" alt="yjjjwww" /></p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yjjjwww)](https://velog.io/@yjjjwww)
